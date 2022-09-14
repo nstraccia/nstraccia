@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nazzareno straccia
-- 👀 I’m interested in open source software for applications related to satellite remote sensing and maritime 
+- 👀 I’m interested in open source software for applications related to satellite remote sensing and maritime fields
 - 🌱 I’m currently learning matplotlib and python
 - 💞️ I’m looking to collaborate on the above issues
 - 📫 How to reach me email: n.straccia@gmail.com
